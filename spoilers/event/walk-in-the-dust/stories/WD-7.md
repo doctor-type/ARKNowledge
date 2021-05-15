@@ -12,7 +12,7 @@
 
 ### プロットシミュレーター
 
-[WD-5 沁礁之地 BEG (prts.wiki)](http://prts.wiki/w/WD-5/BEG)
+[WD-7/BEG (prts.wiki)](http://prts.wiki/w/WD-7/BEG)
 
 ### シナリオ
 
