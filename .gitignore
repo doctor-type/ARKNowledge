@@ -1,3 +1,7 @@
 vault/
 notes/fixme.md
 spoilers/
+
+.devcontainer/
+.gitignore
+*.code-workspace
