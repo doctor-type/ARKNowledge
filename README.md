@@ -9,10 +9,11 @@ ARKNowledge(アーク・ナレッジ)はゲーム「[アークナイツ](https:/
 
 ## 内容
 
-* `article` - まとまった読み物など
-* `character` - キャラクターについての情報
-* `event` - イベントについての情報
-* `glossary` - 用語集
+* `article` - 読み物など
+* `library` - 情報のまとめなど
+    * `character` - キャラクターに関する情報
+    * `glossary` - 用語集
+* `note` - 雑多な紙片
 
 ## カバー範囲
 
