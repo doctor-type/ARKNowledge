@@ -443,6 +443,6 @@
 <!-- その他メディア -->
 
 [^officialSite]: [公式サイト](https://arknights.jp) 世界観
-[^officialSite-20190709]: 公式サイト 2019/07/09
+[^officialSite-20190709]: [公式サイト 2019/07/09](https://web.archive.org/web/20190709050945/https://www.arknights.jp/)
 
 [^closuresSecretFile-3]: クロージャの機密ファイル #3 クロージャとロドス
