@@ -591,7 +591,7 @@ Tachankaらのおやつになった[^od-2-beg]。
 
 フミヅキはこの国の顔料を用いて書を認める[^furniture-zen-frost]。
 
-檀国は韓国にかつて存在したと言われている国家[^wikipedia-dankoku]。
+「三国遺事」によると、檀国は韓国にかつて存在したと主張されている国家[^wikipedia-dankoku]。
 
 ## ち
 
