@@ -19,6 +19,7 @@
 * 尋常ではない怪力
 * すぐに傷が治る治癒能力[^sv-5-beg]
 * 歌声や潮の匂いに敏感な感覚能力[^sv-1-beg]
+* ろうそくなどの灯りが必要ないほど夜目が効く[^furniture-iberiaResort-lantern]
 
 など、人間離れした身体能力を持つ。
 
@@ -57,6 +58,10 @@
 [ラテラーノの宗教](#ラテラーノの宗教)の影響が強い。
 
 最強と謳われた艦隊を保有していたが、一夜にして消滅した。「黄金の大船」と呼ばれる最後の一隻の巨艦はまだ現存しているようだが詳細は不明[^sv-st-2]。
+
+イベリア語はスペイン語に似ている(例: playa(スペイン語の「ビーチ」と同じ)[^furniture-iberiaResort-partition])。
+
+サルヴィエントのように沿岸は暗い海が広がっている地方もある一方、リゾートと呼べるビーチがある地方もある[^furniture-iberiaResort-theme]など、多様な形で海と接触している。
 
 「さすらいの歌い手」は馴染み深い一方、賞金稼ぎにとっては危険な国らしい[^sv-1-end]。
 
@@ -740,6 +745,9 @@ BSWにはピカール・トゥラのような脳筋が多いらしい(フラン�
 
 [^furniture-CRTOffice-theme]: 救急医療チーム事務室 テーマ説明
 [^furniture-CRTOffice-HPWorkChair]: 救急医療チーム事務室 主治医の椅子
+[^furniture-iberiaResort-theme]: イベリアリゾート テーマ説明
+[^furniture-iberiaResort-lantern]: イベリアリゾート レトロなランタン
+[^furniture-iberiaResort-partition]: イベリアリゾート 折り畳みパーテーション
 [^furniture-modernHotel-theme]: モダンホテル テーマ説明
 [^furniture-modernHotel-hotelCarpet]: モダンホテル ホテル絨毯
 [^furniture-modernHotel-williamPiano]: モダンホテル ウィレムピアノ
