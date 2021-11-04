@@ -610,13 +610,13 @@ Tachankaらのおやつになった[^od-2-beg]。
 
 ### ロドス
 
-1. ロドス・アイランド製薬。 -> [ロドス・アイランド製薬](nation-and-organization.md#ロドス・アイランド製薬)
-2. ロドス・アイランド(艦船)。 -> [ロドス・アイランド(艦船)](nation-and-organization.md#ロドス・アイランド(艦船))
+1. ロドス・アイランド製薬。 -> [ロドス・アイランド製薬](nation-and-organization.md#ロドスアイランド製薬)
+2. ロドス・アイランド(艦船)。 -> [ロドス・アイランド(艦船)](nation-and-organization.md#ロドスアイランド艦船)
 
 ### ロドス・アイランド
 
-1. ロドス・アイランド製薬。 -> [ロドス・アイランド製薬](nation-and-organization.md#ロドス・アイランド製薬)
-2. ロドス・アイランド(艦船)。 -> [ロドス・アイランド(艦船)](nation-and-organization.md#ロドス・アイランド(艦船))
+1. ロドス・アイランド製薬。 -> [ロドス・アイランド製薬](nation-and-organization.md#ロドスアイランド製薬)
+2. ロドス・アイランド(艦船)。 -> [ロドス・アイランド(艦船)](nation-and-organization.md#ロドスアイランド艦船)
 
 ## 0~9
 
